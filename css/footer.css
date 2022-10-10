@@ -1,6 +1,3 @@
-.footer {
-  background: #000000;
-}
 
 .container-footer {
   max-width: 1200px;
@@ -15,19 +12,19 @@
 .texto-footer {
   font-size: 1.5rem;
   line-height: 1.33;
-  color: #cccccc;
+  color: #141414;
 }
 
 .contato-footer li {
   font-weight: bold;
   font-size: 2.25rem;
   line-height: 1.1;
-  color: #ffffff;
+  color: #141414;
   margin-bottom: 30px;
 }
 
 .contato-footer li a {
-  color: #ffffff;
+  color: #141414;
 }
 
 @media (max-width: 800px) {
